@@ -2,8 +2,5 @@
 1.Хлеб;
 2.Milk;
 3.water;
-<<<<<<< HEAD
 4.Fish
-=======
-4.beer;
->>>>>>> branch2
+
