@@ -2,3 +2,4 @@
 1.Хлеб;
 2.Milk;
 3.water;
+4.beer;
